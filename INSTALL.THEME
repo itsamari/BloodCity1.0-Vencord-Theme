@@ -1,0 +1,4 @@
+How to add this theme to your Discord.
+First you want to download VenCord at https://vencord.dev/. Make sure its the latest version. Run your Discord application and go to your settings,
+you will see a catagory named "VENCORD." Click on THEMES beneath the VENCORD catagory and then head over to online themes. Now this step is
+important. Go to the BloodCity1.0 file in the reprositry and copy the https and paste it into your online themes block.
